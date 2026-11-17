@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jeu de dames</string>
+    <string name="annuler_coup">Annuler coup</string>
+    <string name="dames">Dames</string>
+    <string name="commencer_le_jeu">Commencer le jeu</string>
+    <string name="nom_du_joueur_2">Nom du joueur 2</string>
+    <string name="nom_du_joueur_1">Nom du joueur 1</string>
+</resources>
